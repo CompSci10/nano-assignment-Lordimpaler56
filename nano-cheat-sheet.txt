@@ -19,3 +19,5 @@ WHEN STARTING NANO:
 
 -$ : nano displays the entire contents of one line across one line
 
+-i : sets nano to tab spaces between each line
+
