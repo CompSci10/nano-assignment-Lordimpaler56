@@ -1,0 +1,21 @@
+Ctrl+x : exit nano
+
+Ctrl+w : where a file is
+
+Ctrl+k : cuts out/deletes a certain portion of text
+
+Ctrl+a : returns your cursor/typing point to the beginning of your text line 
+
+Ctrl+e : directs your cursor/typing point to the end of your text line 
+
+Esc g : allows you to search for a line or column number
+
+Esc $ : enables soft wrapping of overlong lines
+ 
+Esc l : enables hard wrapping of overlong lines
+
+WHEN STARTING NANO:
+
+
+-$ : nano displays the entire contents of one line across one line
+
