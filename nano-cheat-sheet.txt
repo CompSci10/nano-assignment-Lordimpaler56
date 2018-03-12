@@ -23,3 +23,5 @@ WHEN STARTING NANO:
 
 -W : nano automatically counts/treats punctuation characters as part of a word
 
+-S : enables smooth scrolling, which scrolls line by line while inside nano
+
