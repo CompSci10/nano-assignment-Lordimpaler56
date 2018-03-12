@@ -1,3 +1,6 @@
+COMMANDS TO BE USED WHILE WORKING INSIDE NANO:
+
+
 Ctrl+x : exit nano
 
 Ctrl+w : where a file is
