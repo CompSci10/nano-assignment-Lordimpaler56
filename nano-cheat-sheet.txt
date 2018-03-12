@@ -21,3 +21,5 @@ WHEN STARTING NANO:
 
 -i : sets nano to tab spaces between each line
 
+-W : nano automatically counts/treats punctuation characters as part of a word
+
